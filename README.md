@@ -1,2 +1,2 @@
-# misconfigparaelblog
+# Mis Configuraciones para Mi Blog Personal: luiszambrana.com.ar
 Repositorio con mis configuraciones (creadas,encontradas, modificadas) para compartir en el blog...
